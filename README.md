@@ -1,0 +1,4 @@
+# MaoYanMovie_Spider
+猫眼电影爬取电影榜单数据
+test.py是用beautifulsoup实现的网页解析
+test1.py是用正则表达式实现的
